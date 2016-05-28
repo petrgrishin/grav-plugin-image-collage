@@ -1,0 +1,12 @@
+# Specific
+composer.lock
+
+# OS Generated
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+*.swp
+
+# IDEA
+.idea/
