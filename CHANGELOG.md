@@ -1,3 +1,9 @@
+# v1.0.3
+## 06/01/2016
+
+1. [](#bugfix)
+    * Fix bug, it is necessary to `replace image_collage.php` -> `image-collage.php`, `image_collage.yaml` -> `image-collage.yaml`
+
 # v1.0.2
 ## 06/01/2016
 
