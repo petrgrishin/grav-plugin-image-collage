@@ -1,3 +1,9 @@
+# v1.0.2
+## 06/01/2016
+
+1. [](#bugfix)
+    * Fixed date format in CHANGELOG
+
 # v1.0.1
 ## 06/01/2016
 
