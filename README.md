@@ -15,7 +15,7 @@ Twig syntax
 
 Class diagram syntax
 ```
-image_collage(images: ImageMedium[], column: int, borderSize: int, width: int): ImageMedium
+images_collage(images: ImageMedium[], column: int, borderSize: int, width: int): ImageMedium
 ```
 
 ## Installation
