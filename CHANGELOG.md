@@ -1,3 +1,10 @@
+# v1.0.4
+## 06/06/2016
+
+1. [](#bugfix)
+    * Fix default config load
+    * Fix syntax in readme
+
 # v1.0.3
 ## 06/01/2016
 
