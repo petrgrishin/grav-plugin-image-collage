@@ -25,7 +25,7 @@ class ImageCollageTwigExtension extends \Twig_Extension
             'column' => 'column',
             'border_size' => 'borderSize',
             'image_width' => 'width'
-        ], 'plugins.image_collage.');
+        ], 'plugins.image-collage.');
     }
 
      /**
