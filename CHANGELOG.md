@@ -27,4 +27,4 @@
 ## 05/28/2016
 
 1. [](#new)
-    * Added `image_collage(images: ImageMedium[], column: int, borderSize: int, width: int): ImageMedium` Twig Extension
+    * Added `images_collage(images: ImageMedium[], column: int, borderSize: int, width: int): ImageMedium` Twig Extension
